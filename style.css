@@ -51,7 +51,7 @@ textarea {
   resize: none; }
 
 .heading-primary {
-  font-size: 6rem;
+  font-size: 3rem;
   text-transform: uppercase;
   letter-spacing: 3px;
   text-align: center; }
@@ -176,8 +176,8 @@ textarea {
   background:  url(wp7786781-5120x1440-wallpapers.jpg);
   background-position: center;
 
-  min-height: 60rem;
-  max-height: 120rem;
+  min-height: 500px;
+  max-height: 500px;
   position: relative; }
   @media only screen and (max-width: 37.5em) {
     .home-hero {
@@ -229,7 +229,7 @@ textarea {
         transform: translate(0, 0); } }
   .home-hero__info {
     margin: 3rem auto 0 auto;
-    max-width: 80rem; }
+    max-width: 60rem; }
   .home-hero__cta {
     margin-top: 5rem;
     text-align: center; }
@@ -522,6 +522,12 @@ textarea {
     object-fit: cover;
     object-position: center;
     display: block; }
+    .header__logo-img2 {
+      width: 60%;
+      height: 30%;
+      object-fit: cover;
+      object-position: center;
+      display: block; }
   .header__logo-sub {
     font-size: 1.8rem;
     text-transform: uppercase;
