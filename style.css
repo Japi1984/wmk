@@ -223,7 +223,7 @@ textarea {
     width: 92%; }
     @media only screen and (max-width: 37.5em) {
       .home-hero__content {
-        padding: 19rem 0 13rem 0;
+        padding: 10rem 0 13rem 8rem;
         margin: auto;
         position: static;
         transform: translate(0, 0); } }
