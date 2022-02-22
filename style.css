@@ -176,8 +176,8 @@ textarea {
   background:  url(wp7786781-5120x1440-wallpapers.jpg);
   background-position: center;
 
-  min-height: 500px;
-  max-height: 500px;
+  min-height: 120rem;
+  max-height: 120rem;
   position: relative; }
   @media only screen and (max-width: 37.5em) {
     .home-hero {
